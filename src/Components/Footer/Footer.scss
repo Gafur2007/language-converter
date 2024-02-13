@@ -1,0 +1,16 @@
+.footer {
+    margin-top: 178px;
+    background: rgb(51, 61, 75);
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+.footer__div {
+    display: flex;
+    gap: 102px;
+    padding-top: 47px;
+    padding-bottom: 47px;
+}
